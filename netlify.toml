@@ -1,5 +1,5 @@
 [build]
-command = "react-router build"
+command = "webstudio build --template ssg"
 publish = "build/client"
 
 [dev]
