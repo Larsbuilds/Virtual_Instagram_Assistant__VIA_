@@ -1,6 +1,11 @@
 [build]
-command = "webstudio build --template ssg"
-publish = "build/client"
+command = "npm install && npm run build"
+publish = "dist/client"
 
 [dev]
 command = "react-router dev"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
