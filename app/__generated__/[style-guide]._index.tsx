@@ -804,7 +804,7 @@ className={`w-text c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
 </Text>
 <Paragraph
 className={`w-paragraph catu86a`}>
-{"Perform complex SEO audits and optimizations with a single click."}
+{"Create tailored content for your desired platform with one click"}
 </Paragraph>
 </Link>
 </Box>
@@ -1458,7 +1458,7 @@ className={`w-text c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
 </Text>
 <Paragraph
 className={`w-paragraph catu86a`}>
-{"Perform complex SEO audits and optimizations with a single click."}
+{"Create tailored content for your desired platform with one click"}
 </Paragraph>
 </Link>
 </Box>

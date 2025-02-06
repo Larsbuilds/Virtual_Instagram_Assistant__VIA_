@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "85537a75-1778-4603-9c53-dda5354c277f",
+    "id": "e48668e9-eaa8-46bc-a49f-4ed78efd93af",
     "projectId": "a3b7207d-4a49-4b2a-9978-e5f461b55cfb",
-    "version": 122,
-    "createdAt": "2025-02-06T11:10:25.407+00:00",
-    "updatedAt": "2025-02-06T11:10:25.407+00:00",
+    "version": 159,
+    "createdAt": "2025-02-06T12:47:04.596+00:00",
+    "updatedAt": "2025-02-06T12:47:04.596+00:00",
     "pages": {
       "meta": {
         "siteName": "VIA",
@@ -32236,16 +32236,6 @@
         }
       ],
       [
-        "1l2mO9nzUX6Xk_-zMftLG",
-        {
-          "instanceId": "1l2mO9nzUX6Xk_-zMftLG",
-          "values": [
-            "3OKLCg36273vS9KVg5yQF",
-            "HVTgiNnrWfNKCw7F5XeCl"
-          ]
-        }
-      ],
-      [
         "_rMKjH1Ccvm3pRIP2WBmG",
         {
           "instanceId": "_rMKjH1Ccvm3pRIP2WBmG",
@@ -33760,6 +33750,36 @@
           "instanceId": "lz10JiorKp8GGKQYYTSnE",
           "values": [
             "zlTUyKHcPpJsAbhCAMpvC"
+          ]
+        }
+      ],
+      [
+        "1l2mO9nzUX6Xk_-zMftLG",
+        {
+          "instanceId": "1l2mO9nzUX6Xk_-zMftLG",
+          "values": [
+            "3OKLCg36273vS9KVg5yQF",
+            "HVTgiNnrWfNKCw7F5XeCl"
+          ]
+        }
+      ],
+      [
+        "RZgFn-GlzWo-l6ZvVyUtV",
+        {
+          "instanceId": "RZgFn-GlzWo-l6ZvVyUtV",
+          "values": [
+            "3OKLCg36273vS9KVg5yQF",
+            "HVTgiNnrWfNKCw7F5XeCl"
+          ]
+        }
+      ],
+      [
+        "qToKJkytHmpaOaK45wuKF",
+        {
+          "instanceId": "qToKJkytHmpaOaK45wuKF",
+          "values": [
+            "3OKLCg36273vS9KVg5yQF",
+            "HVTgiNnrWfNKCw7F5XeCl"
           ]
         }
       ]
@@ -37078,6 +37098,26 @@
         {
           "id": "kICbTyuAFOhcq9BWGqBMq",
           "instanceId": "lz10JiorKp8GGKQYYTSnE",
+          "name": "data-ws-show",
+          "type": "boolean",
+          "value": true
+        }
+      ],
+      [
+        "hbAI0OfaLEVX2NZ5alIpn",
+        {
+          "id": "hbAI0OfaLEVX2NZ5alIpn",
+          "instanceId": "IUIbiKco4rC5Cv-Kj76c_",
+          "name": "data-ws-show",
+          "type": "boolean",
+          "value": true
+        }
+      ],
+      [
+        "n83bfXxiLcRGGiQ_nvg5w",
+        {
+          "id": "n83bfXxiLcRGGiQ_nvg5w",
+          "instanceId": "WkmEKQIZ5sREtZebosBFa",
           "name": "data-ws-show",
           "type": "boolean",
           "value": true
@@ -43938,7 +43978,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Pricing"
+              "value": "Basic"
             }
           ]
         }
@@ -43994,6 +44034,10 @@
             {
               "type": "id",
               "value": "sXIe2Lm2RYJjo-5QJyBGw"
+            },
+            {
+              "type": "id",
+              "value": "qToKJkytHmpaOaK45wuKF"
             }
           ]
         }
@@ -44007,7 +44051,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Keyword optimization"
+              "value": "Personalized VIA Chatbot for your website"
             }
           ]
         }
@@ -44021,7 +44065,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Automated meta tags"
+              "value": "Vector Database integration as your Business Brain"
             }
           ]
         }
@@ -44035,7 +44079,7 @@
           "children": [
             {
               "type": "text",
-              "value": "SEO monitoring"
+              "value": "Chat history monitoring & iterative learning"
             }
           ]
         }
@@ -44049,7 +44093,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Monthly reports"
+              "value": "Product recommendations"
             }
           ]
         }
@@ -44185,6 +44229,10 @@
             },
             {
               "type": "id",
+              "value": "RZgFn-GlzWo-l6ZvVyUtV"
+            },
+            {
+              "type": "id",
               "value": "B6NZ30df317pMw1FN6ih8"
             },
             {
@@ -44215,7 +44263,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Keyword optimization"
+              "value": "Advanced personality mimicry"
             }
           ]
         }
@@ -44229,7 +44277,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Automated meta tags"
+              "value": "Multi-platform support (Instagram & TikTok)"
             }
           ]
         }
@@ -44243,7 +44291,7 @@
           "children": [
             {
               "type": "text",
-              "value": "SEO monitoring"
+              "value": "Affiliate link integration"
             }
           ]
         }
@@ -44257,7 +44305,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Monthly reports"
+              "value": "Automated support replies"
             }
           ]
         }
@@ -44271,21 +44319,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Content suggestions"
-            }
-          ]
-        }
-      ],
-      [
-        "1l2mO9nzUX6Xk_-zMftLG",
-        {
-          "type": "instance",
-          "id": "1l2mO9nzUX6Xk_-zMftLG",
-          "component": "ListItem",
-          "children": [
-            {
-              "type": "text",
-              "value": "Link optimization"
+              "value": "Unlimited monthly message handling"
             }
           ]
         }
@@ -44459,7 +44493,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Keyword optimization"
+              "value": "Enterprise-grade AI model"
             }
           ]
         }
@@ -44473,7 +44507,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Automated meta tags"
+              "value": "Full multi-platform integration"
             }
           ]
         }
@@ -44487,7 +44521,7 @@
           "children": [
             {
               "type": "text",
-              "value": "SEO monitoring"
+              "value": "Custom voice messaging"
             }
           ]
         }
@@ -44501,7 +44535,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Monthly reports"
+              "value": "Priority support"
             }
           ]
         }
@@ -44529,7 +44563,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Link optimization"
+              "value": "Personalized monetization strategy consultation"
             }
           ]
         }
@@ -46613,7 +46647,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Perform complex SEO audits and optimizations with a single click."
+              "value": "Create tailored content for your desired platform with one click"
             }
           ]
         }
@@ -47607,6 +47641,48 @@
           "component": "Image",
           "label": "Logo",
           "children": []
+        }
+      ],
+      [
+        "1l2mO9nzUX6Xk_-zMftLG",
+        {
+          "type": "instance",
+          "id": "1l2mO9nzUX6Xk_-zMftLG",
+          "component": "ListItem",
+          "children": [
+            {
+              "type": "text",
+              "value": "Monthly performance report"
+            }
+          ]
+        }
+      ],
+      [
+        "RZgFn-GlzWo-l6ZvVyUtV",
+        {
+          "type": "instance",
+          "id": "RZgFn-GlzWo-l6ZvVyUtV",
+          "component": "ListItem",
+          "children": [
+            {
+              "type": "text",
+              "value": "Custom API access"
+            }
+          ]
+        }
+      ],
+      [
+        "qToKJkytHmpaOaK45wuKF",
+        {
+          "type": "instance",
+          "id": "qToKJkytHmpaOaK45wuKF",
+          "component": "ListItem",
+          "children": [
+            {
+              "type": "text",
+              "value": "Limited monthly message handling (500 messages)"
+            }
+          ]
         }
       ]
     ],

@@ -195,7 +195,7 @@ className={`w-text c160atll c11dowh9 c32myit cwrra4i c12y6bqh`}>
 </Text>
 <Paragraph
 className={`w-paragraph catu86a`}>
-{"Perform complex SEO audits and optimizations with a single click."}
+{"Create tailored content for your desired platform with one click"}
 </Paragraph>
 </Link>
 </Box>
@@ -948,7 +948,7 @@ className={`w-box cry9bxc c1lfjoq7 c1778y6x c1wt8a7g c1md20bl c1e892th`}>
 <Heading
 tag={"h3"}
 className={`w-heading cuoke4w c11dowh9 c32myit cwrra4i c12y6bqh`}>
-{"Pricing"}
+{"Basic"}
 </Heading>
 <Paragraph
 className={`w-paragraph`}>
@@ -963,19 +963,23 @@ className={`w-box cry9bxc c1lfjoq7 c16xs6ny c1wt8a7g c1z0l37u c1ml0hr7`}>
 className={`w-list c1cn3fw9 cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c34dwh1 c1y6imu0 c32myit`}>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Keyword optimization"}
+{"Personalized VIA Chatbot for your website"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Automated meta tags"}
+{"Vector Database integration as your Business Brain"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"SEO monitoring"}
+{"Chat history monitoring & iterative learning"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Monthly reports"}
+{"Product recommendations"}
+</ListItem>
+<ListItem
+className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
+{"Limited monthly message handling (500 messages)"}
 </ListItem>
 </List>
 </Box>
@@ -1009,27 +1013,31 @@ className={`w-box cry9bxc c1lfjoq7 c16xs6ny c1wt8a7g c1z0l37u c1ml0hr7`}>
 className={`w-list c1cn3fw9 cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c34dwh1 c1y6imu0 c32myit`}>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Keyword optimization"}
+{"Advanced personality mimicry"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Automated meta tags"}
+{"Custom API access"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"SEO monitoring"}
+{"Multi-platform support (Instagram & TikTok)"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Monthly reports"}
+{"Affiliate link integration"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Content suggestions"}
+{"Automated support replies"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Link optimization"}
+{"Unlimited monthly message handling"}
+</ListItem>
+<ListItem
+className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
+{"Monthly performance report"}
 </ListItem>
 </List>
 </Box>
@@ -1063,19 +1071,19 @@ className={`w-box cry9bxc c1lfjoq7 c16xs6ny c1wt8a7g c1z0l37u c1ml0hr7`}>
 className={`w-list c1cn3fw9 cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c34dwh1 c1y6imu0 c32myit`}>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Keyword optimization"}
+{"Enterprise-grade AI model"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Automated meta tags"}
+{"Full multi-platform integration"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"SEO monitoring"}
+{"Custom voice messaging"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Monthly reports"}
+{"Priority support"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
@@ -1083,7 +1091,7 @@ className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
-{"Link optimization"}
+{"Personalized monetization strategy consultation"}
 </ListItem>
 <ListItem
 className={`w-list-item cnrz8fp c1622pe5 c7uk64 cwlpv0j crv1a4t cbrrmm8 cuo9dm5 c5egcmi c1vax25q`}>
