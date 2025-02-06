@@ -2,9 +2,6 @@
 command = "npm install && npm run build"
 publish = "dist/client"
 
-[dev]
-command = "react-router dev"
-
 [[redirects]]
 from = "/*"
 to = "/index.html"
