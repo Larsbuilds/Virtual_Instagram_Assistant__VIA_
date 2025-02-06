@@ -3,8 +3,8 @@
   "private": true,
   "sideEffects": false,
   "scripts": {
-    "build": "vite build",
-    "dev": "vite dev",
+    "build": "react-router build",
+    "dev": "react-router dev",
     "typecheck": "tsc",
     "start": "npx netlify-cli serve",
     "deploy": "npx netlify-cli deploy --build --prod"

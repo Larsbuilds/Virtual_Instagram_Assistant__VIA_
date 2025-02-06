@@ -5,7 +5,8 @@
       import { Fragment, useState } from "react";
       import type { FontAsset, ImageAsset } from "@webstudio-is/sdk";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Body as Body, Box as Box, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Link as Link, Image as Image, Text as Text, Button as Button, Slot as Slot, Heading as Heading, Paragraph as Paragraph, List as List, ListItem as ListItem, Separator as Separator, Input as Input } from "@webstudio-is/sdk-components-react";
+      import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
+import { Box as Box, Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Image as Image, Text as Text, Button as Button, Slot as Slot, Heading as Heading, Paragraph as Paragraph, List as List, ListItem as ListItem, Separator as Separator, Input as Input } from "@webstudio-is/sdk-components-react";
 import { NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport, Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as DialogOverlay, DialogContent as DialogContent, DialogClose as DialogClose } from "@webstudio-is/sdk-components-react-radix";
 
 
@@ -57,11 +58,11 @@ href={"/"}
 className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p cl60rel c1ib9cr2 c1d7u282`}>
 <Image
 loading={"eager"}
-src={"/assets/Logo_(1)_4DOjcRBy3o604SWE02Vw5.png"}
-width={153}
-height={152}
+src={"/assets/via-chatbot5-kopie_l7xvPcVCMEtMLLF8dnGku.png"}
+width={2121}
+height={888}
 alt={"logo"}
-className={`w-image coe1sx2`} />
+className={`w-image cpml4g5`} />
 </Link>
 </Fragment_1>
 </Slot>
@@ -365,11 +366,11 @@ href={"/"}
 className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p cl60rel c1ib9cr2 c1d7u282`}>
 <Image
 loading={"eager"}
-src={"/assets/Logo_(1)_4DOjcRBy3o604SWE02Vw5.png"}
-width={153}
-height={152}
+src={"/assets/via-chatbot5-kopie_l7xvPcVCMEtMLLF8dnGku.png"}
+width={2121}
+height={888}
 alt={"logo"}
-className={`w-image coe1sx2`} />
+className={`w-image cpml4g5`} />
 </Link>
 </Fragment_1>
 </Slot>

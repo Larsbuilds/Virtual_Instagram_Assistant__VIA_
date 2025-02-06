@@ -5,7 +5,8 @@
       import { Fragment, useState } from "react";
       import type { FontAsset, ImageAsset } from "@webstudio-is/sdk";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Body as Body, Box as Box, Fragment as Fragment_1, Heading as Heading, Text as Text, Paragraph as Paragraph, RichTextLink as RichTextLink, CodeText as CodeText, List as List, ListItem as ListItem, Span as Span, Blockquote as Blockquote, Separator as Separator, Link as Link, HtmlEmbed as HtmlEmbed, Image as Image, Form as Form, Input as Input, Textarea as Textarea, Button as Button, Slot as Slot } from "@webstudio-is/sdk-components-react";
+      import { Body as Body, RichTextLink as RichTextLink, Link as Link, Form as Form } from "@webstudio-is/sdk-components-react-router";
+import { Box as Box, Fragment as Fragment_1, Heading as Heading, Text as Text, Paragraph as Paragraph, CodeText as CodeText, List as List, ListItem as ListItem, Span as Span, Blockquote as Blockquote, Separator as Separator, HtmlEmbed as HtmlEmbed, Image as Image, Input as Input, Textarea as Textarea, Button as Button, Slot as Slot } from "@webstudio-is/sdk-components-react";
 import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader as AccordionHeader, AccordionTrigger as AccordionTrigger, AccordionContent as AccordionContent, Label as Label, NavigationMenu as NavigationMenu, NavigationMenuList as NavigationMenuList, NavigationMenuItem as NavigationMenuItem, NavigationMenuTrigger as NavigationMenuTrigger, NavigationMenuContent as NavigationMenuContent, NavigationMenuViewport as NavigationMenuViewport, Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as DialogOverlay, DialogContent as DialogContent, DialogClose as DialogClose } from "@webstudio-is/sdk-components-react-radix";
 
 
@@ -968,11 +969,11 @@ href={"/"}
 className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p cl60rel c1ib9cr2 c1d7u282`}>
 <Image
 loading={"eager"}
-src={"/assets/Logo_(1)_4DOjcRBy3o604SWE02Vw5.png"}
-width={153}
-height={152}
+src={"/assets/via-chatbot5-kopie_l7xvPcVCMEtMLLF8dnGku.png"}
+width={2121}
+height={888}
 alt={"logo"}
-className={`w-image coe1sx2`} />
+className={`w-image cpml4g5`} />
 </Link>
 </Fragment_1>
 </Slot>
@@ -1320,11 +1321,11 @@ href={"/"}
 className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p cl60rel c1ib9cr2 c1d7u282`}>
 <Image
 loading={"eager"}
-src={"/assets/Logo_(1)_4DOjcRBy3o604SWE02Vw5.png"}
-width={153}
-height={152}
+src={"/assets/via-chatbot5-kopie_l7xvPcVCMEtMLLF8dnGku.png"}
+width={2121}
+height={888}
 alt={"logo"}
-className={`w-image coe1sx2`} />
+className={`w-image cpml4g5`} />
 </Link>
 </Fragment_1>
 </Slot>
@@ -1628,11 +1629,11 @@ href={"/"}
 className={`w-link c1pu3n16 cld4m44 c1e9wxra c1c9nyn co9inq6 c18nx7en c13zjl4p cl60rel c1ib9cr2 c1d7u282`}>
 <Image
 loading={"eager"}
-src={"/assets/Logo_(1)_4DOjcRBy3o604SWE02Vw5.png"}
-width={153}
-height={152}
+src={"/assets/via-chatbot5-kopie_l7xvPcVCMEtMLLF8dnGku.png"}
+width={2121}
+height={888}
 alt={"logo"}
-className={`w-image coe1sx2`} />
+className={`w-image cpml4g5`} />
 </Link>
 </Fragment_1>
 </Slot>

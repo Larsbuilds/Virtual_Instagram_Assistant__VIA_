@@ -5,7 +5,8 @@
       import { Fragment, useState } from "react";
       import type { FontAsset, ImageAsset } from "@webstudio-is/sdk";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
-      import { Body as Body, Box as Box, Heading as Heading, Paragraph as Paragraph, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react";
+      import { Body as Body, RichTextLink as RichTextLink } from "@webstudio-is/sdk-components-react-router";
+import { Box as Box, Heading as Heading, Paragraph as Paragraph } from "@webstudio-is/sdk-components-react";
 
 
       export const siteName = "VIA";

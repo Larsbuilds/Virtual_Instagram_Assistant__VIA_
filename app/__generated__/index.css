@@ -2165,9 +2165,6 @@
   .cignq8x {
     grid-template-columns: 1fr 5fr 1fr
   }
-  .coe1sx2 {
-    max-width: 44px
-  }
   .ci3odkx {
     transition-property: color, border
   }
@@ -2303,6 +2300,9 @@
   }
   .c23h93x {
     margin-top: var(--size-000)
+  }
+  .cpml4g5 {
+    max-width: 125px
   }
 }
 @media all and (max-width: 991px) {
