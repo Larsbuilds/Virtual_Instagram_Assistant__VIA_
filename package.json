@@ -3,8 +3,9 @@
   "private": true,
   "sideEffects": false,
   "scripts": {
-    "build": "react-router build",
-    "dev": "react-router dev",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "typecheck": "tsc",
     "start": "npx netlify-cli serve",
     "deploy": "npx netlify-cli deploy --build --prod"
@@ -20,10 +21,10 @@
     "@webstudio-is/sdk-components-react-router": "0.203.0",
     "@webstudio-is/sdk-components-react": "0.203.0",
     "isbot": "^5.1.22",
-    "react": "18.3.0-canary-14898b6a9-20240318",
-    "react-dom": "18.3.0-canary-14898b6a9-20240318",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router": "^7.1.5",
-    "vite": "^5.4.11",
+    "vite": "^4.3.9",
     "@netlify/vite-plugin-react-router": "^1.0.0",
     "@react-router/node": "^7.1.5",
     "vike": "^0.4.220"
@@ -32,8 +33,8 @@
     "@types/react": "^18.2.70",
     "@types/react-dom": "^18.2.25",
     "typescript": "5.7.3",
-    "@vitejs/plugin-react": "^4.3.4",
-    "vite": "^5.4.11"
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.3.9"
   },
   "engines": {
     "node": ">=20.0.0"
